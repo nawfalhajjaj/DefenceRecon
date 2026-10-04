@@ -12,6 +12,7 @@ Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 ```
 
 Run as Administrator for full accuracy — some registry keys and service states require elevated privileges. Handle execution policy per your environment before launching.
+
 ![DefenceRecon Screenshot](assets/screenshot.png)
 ---
 
