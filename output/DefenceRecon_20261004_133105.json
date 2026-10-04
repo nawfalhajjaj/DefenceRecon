@@ -1,0 +1,344 @@
+﻿[
+    {
+        "Module":  "Defender",
+        "Name":  "Defender Disabled",
+        "Value":  "False",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "Defender",
+        "Name":  "Real-Time Protection",
+        "Value":  "unknown",
+        "Risk":  "UNKNOWN"
+    },
+    {
+        "Module":  "Defender",
+        "Name":  "Tamper Protection",
+        "Value":  "enabled",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "Defender",
+        "Name":  "Cloud Protection",
+        "Value":  "enabled",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "Defender",
+        "Name":  "Signature Version",
+        "Value":  "1.459.546.0",
+        "Risk":  "INFO"
+    },
+    {
+        "Module":  "Firewall",
+        "Name":  "Domain Profile",
+        "Value":  "enabled",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "Firewall",
+        "Name":  "Domain Default Inbound",
+        "Value":  "unknown",
+        "Risk":  "UNKNOWN"
+    },
+    {
+        "Module":  "Firewall",
+        "Name":  "Domain Default Outbound",
+        "Value":  "unknown",
+        "Risk":  "INFO"
+    },
+    {
+        "Module":  "Firewall",
+        "Name":  "Private Profile",
+        "Value":  "enabled",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "Firewall",
+        "Name":  "Private Default Inbound",
+        "Value":  "unknown",
+        "Risk":  "UNKNOWN"
+    },
+    {
+        "Module":  "Firewall",
+        "Name":  "Private Default Outbound",
+        "Value":  "unknown",
+        "Risk":  "INFO"
+    },
+    {
+        "Module":  "Firewall",
+        "Name":  "Public Profile",
+        "Value":  "enabled",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "Firewall",
+        "Name":  "Public Default Inbound",
+        "Value":  "unknown",
+        "Risk":  "UNKNOWN"
+    },
+    {
+        "Module":  "Firewall",
+        "Name":  "Public Default Outbound",
+        "Value":  "unknown",
+        "Risk":  "INFO"
+    },
+    {
+        "Module":  "Firewall",
+        "Name":  "Enabled Inbound Rules",
+        "Value":  132,
+        "Risk":  "INFO"
+    },
+    {
+        "Module":  "Firewall",
+        "Name":  "Enabled Outbound Rules",
+        "Value":  127,
+        "Risk":  "INFO"
+    },
+    {
+        "Module":  "AppLocker",
+        "Name":  "AppIDSvc",
+        "Value":  "running",
+        "Risk":  "HIGH"
+    },
+    {
+        "Module":  "AppLocker",
+        "Name":  "AppLocker - Executables",
+        "Value":  "not configured",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "AppLocker",
+        "Name":  "AppLocker - Scripts",
+        "Value":  "not configured",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "AppLocker",
+        "Name":  "AppLocker - Windows Installers",
+        "Value":  "not configured",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "AppLocker",
+        "Name":  "AppLocker - DLLs",
+        "Value":  "not configured",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "AppLocker",
+        "Name":  "AppLocker - Packaged Apps",
+        "Value":  "not configured",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "AppLocker",
+        "Name":  "WDAC Policy Key",
+        "Value":  "present",
+        "Risk":  "HIGH"
+    },
+    {
+        "Module":  "AppLocker",
+        "Name":  "Vulnerable Driver Blocklist",
+        "Value":  "enabled",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "UAC",
+        "Name":  "UAC Enabled",
+        "Value":  "True",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "UAC",
+        "Name":  "Admin Prompt Behavior",
+        "Value":  "consent (default)",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "UAC",
+        "Name":  "User Prompt Behavior",
+        "Value":  "prompt for creds",
+        "Risk":  "INFO"
+    },
+    {
+        "Module":  "UAC",
+        "Name":  "Secure Desktop",
+        "Value":  "True",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "UAC",
+        "Name":  "Virtualization Enabled",
+        "Value":  "True",
+        "Risk":  "INFO"
+    },
+    {
+        "Module":  "PSLogging",
+        "Name":  "Script Block Logging",
+        "Value":  "disabled",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "PSLogging",
+        "Name":  "Invocation Logging",
+        "Value":  "disabled",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "PSLogging",
+        "Name":  "Module Logging",
+        "Value":  "disabled",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "PSLogging",
+        "Name":  "Transcription",
+        "Value":  "disabled",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "Services",
+        "Name":  "WinDefend (Windows Defender Antivirus)",
+        "Value":  "running",
+        "Risk":  "HIGH"
+    },
+    {
+        "Module":  "Services",
+        "Name":  "Sense (Microsoft Defender for Endpoint (MDE))",
+        "Value":  "stopped",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "Services",
+        "Name":  "WdNisSvc (Windows Defender Network Inspection)",
+        "Value":  "running",
+        "Risk":  "HIGH"
+    },
+    {
+        "Module":  "Services",
+        "Name":  "wscsvc (Windows Security Center)",
+        "Value":  "running",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "Services",
+        "Name":  "EventLog (Windows Event Log)",
+        "Value":  "running",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "Services",
+        "Name":  "wecsvc (Windows Event Collector)",
+        "Value":  "stopped",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "Services",
+        "Name":  "AppIDSvc (Application Identity (AppLocker))",
+        "Value":  "running",
+        "Risk":  "HIGH"
+    },
+    {
+        "Module":  "Services",
+        "Name":  "MpsSvc (Windows Firewall)",
+        "Value":  "running",
+        "Risk":  "HIGH"
+    },
+    {
+        "Module":  "Services",
+        "Name":  "VaultSvc (Credential Manager)",
+        "Value":  "running",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "Services",
+        "Name":  "NgcSvc (Microsoft Passport / Windows Hello)",
+        "Value":  "stopped",
+        "Risk":  "HIGH"
+    },
+    {
+        "Module":  "Services",
+        "Name":  "IKEEXT (IKE/AuthIP IPSec Keying)",
+        "Value":  "stopped",
+        "Risk":  "HIGH"
+    },
+    {
+        "Module":  "Services",
+        "Name":  "PolicyAgent (IPSec Policy Agent)",
+        "Value":  "stopped",
+        "Risk":  "HIGH"
+    },
+    {
+        "Module":  "Services",
+        "Name":  "Total Services Found",
+        "Value":  12,
+        "Risk":  "INFO"
+    },
+    {
+        "Module":  "Antivirus",
+        "Name":  "WSC Registered Products",
+        "Value":  "none",
+        "Risk":  "INFO"
+    },
+    {
+        "Module":  "Antivirus",
+        "Name":  "EDR Process Found",
+        "Value":  "Windows Defender",
+        "Risk":  "HIGH"
+    },
+    {
+        "Module":  "Antivirus",
+        "Name":  "High-Risk EDR Products",
+        "Value":  "none",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "Antivirus",
+        "Name":  "Exclusion Paths",
+        "Value":  "none found",
+        "Risk":  "INFO"
+    },
+    {
+        "Module":  "LSASS",
+        "Name":  "RunAsPPL",
+        "Value":  "PPL + UEFI lock",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "LSASS",
+        "Name":  "VBS Enabled",
+        "Value":  "unknown",
+        "Risk":  "UNKNOWN"
+    },
+    {
+        "Module":  "LSASS",
+        "Name":  "Credential Guard",
+        "Value":  "unknown",
+        "Risk":  "UNKNOWN"
+    },
+    {
+        "Module":  "LSASS",
+        "Name":  "WDigest Cleartext Creds",
+        "Value":  "disabled",
+        "Risk":  "LOW"
+    },
+    {
+        "Module":  "LSASS",
+        "Name":  "Restrict Anonymous",
+        "Value":  "False",
+        "Risk":  "MEDIUM"
+    },
+    {
+        "Module":  "LSASS",
+        "Name":  "LM Compatibility Level",
+        "Value":  "unknown",
+        "Risk":  "UNKNOWN"
+    },
+    {
+        "Module":  "LSASS",
+        "Name":  "LM Hash Storage Disabled",
+        "Value":  "True",
+        "Risk":  "LOW"
+    }
+]
