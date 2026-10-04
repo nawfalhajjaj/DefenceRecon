@@ -2,9 +2,6 @@
 
 DefenceRecon is an interactive PowerShell-based Windows security enumeration tool built for red teamers and penetration testers. It queries defence configurations, AV/EDR products, LSASS protections, logging policies, and more — all from a clean interactive shell with Tab completion, history, and structured export.
 
-**Author**: Nawfal Hajjaj  
-**Version**: 1.0
-
 ---
 
 ## Getting Started
