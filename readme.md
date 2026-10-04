@@ -10,11 +10,13 @@ DefenceRecon is an interactive PowerShell-based Windows security enumeration too
 ## Getting Started
 
 ```powershell
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
 .\DefenceRecon.ps1
 ```
 
 Run as Administrator for full accuracy — some registry keys and service states require elevated privileges. Handle execution policy per your environment before launching.
 
+![DefenceRecon](assets/screenshot.png)
 ---
 
 ## Shell Commands
